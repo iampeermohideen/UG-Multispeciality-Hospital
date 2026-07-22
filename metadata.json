@@ -1,0 +1,6 @@
+{
+  "name": "UG Multispeciality Hospital",
+  "description": "Modern, advanced healthcare portal for UG Multispeciality Hospital featuring 24x7 emergency services, doctor directory, department showcase, appointment booking, health packages, and patient tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
